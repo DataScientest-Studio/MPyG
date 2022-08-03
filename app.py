@@ -1,7 +1,7 @@
 # Commandes pour lancer le fichier
 
 # cd C:\Users\HP\Documents\DATA\Projet MPG\STREAMLIT\_Dossier final
-# streamlit run Streamlit_MPG.py
+# streamlit app.py
 
 import streamlit as st
 import pandas as pd
